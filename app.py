@@ -12,13 +12,13 @@ st.write("\n")
 
 with st.container():
  st.subheader("bajaj pulsar NS160")
- st.image("artifacts/images\Bajaj Pulsar NS160.jpg")
+ st.image("artifacts/images/Bajaj Pulsar NS160.jpg")
  st.subheader("KTM 390 DUKE")
- st.image("artifacts/images\KTM 390 DUKE.webp")
+ st.image("artifacts/images/KTM 390 DUKE.webp")
  st.subheader("R15")
- st.image("artifacts/images\R15.jpg")
+ st.image("artifacts/images/R15.jpg")
  st.subheader("Royal Enfield")
- st.image("artifacts/images\Royal Enfield.jpg")
+ st.image("artifacts/images/Royal Enfield.jpg")
 
 
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2],gap="medium",vertical_alignment='center',border=True)
